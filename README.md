@@ -1,1 +1,1 @@
-============================== <strong>Documentation coming soon</strong> ==============================
+==== <strong>Documentation coming soon</strong> ====
